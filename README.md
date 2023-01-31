@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jeet Patel</h1>
 <h3 align="center">I'm a developer with strong understanding of Machine Learning, Data Engineering, and Data Science from India.</h3>
-<img align="right" alt="Data Analysis" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
+<img align="right" alt="Data Analysis" with = "150" src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet-51&label=Profile%20views&color=0e75b6&style=flat"	 alt="jeet-51" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet-51&label=Profile%20views&color=0e75b6&style=flat" alt="jeet-51" /> </p>
 
 - 🔭 I’m currently working on **Learnera- Course Recommendation System**
+
+- 🌱 I’m currently learning **JavaScript, AngularJS, React**
+
+- 💬 Ask me about **Machine Learning and Data Analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
