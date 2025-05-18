@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/pateljeet22" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:patejeet@iu.edu">
+  <a href="mailto:jeetp5118@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Jeet-51">
@@ -130,7 +130,7 @@
 
 ## 📫 Let's Connect
 
-I'm always interested in collaborating on innovative projects or discussing the latest in data science and ML! Feel free to reach out at **patejeet@iu.edu** or connect with me on [LinkedIn](https://www.linkedin.com/in/pateljeet22).
+I'm always interested in collaborating on innovative projects or discussing the latest in data science and ML! Feel free to reach out at **jeetp5118@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/pateljeet22).
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeet-51&style=flat-square&color=blue" alt="Profile views" />
