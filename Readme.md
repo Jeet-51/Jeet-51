@@ -106,16 +106,6 @@ class JeetPatel:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeet-51&show_icons=true&theme=tokyonight" alt="Jeet's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-51&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🔥 My Data Science Philosophy
 
 > "Data is the new oil, but like oil, it's valuable only when refined into actionable insights. My mission is to build end-to-end systems that transform raw data into intelligence that drives decisions."
@@ -135,6 +125,16 @@ I'm always interested in collaborating on innovative projects or discussing the 
   <img src="https://komarev.com/ghpvc/?username=Jeet-51&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeet-51&show_icons=true&theme=tokyonight" alt="Jeet's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-51&theme=tokyonight" alt="GitHub Streak" />
+</div>
 ---
 
 <div align="center">
