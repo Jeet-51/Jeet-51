@@ -24,9 +24,10 @@
 <table>
   <tr>
     <td width="70%">
-      <p>Hey there! I'm a data scientist and ML engineer who transforms raw data into intelligent systems. With a background bridging electronics engineering and data science, I specialize in building production-ready ML pipelines that deliver measurable impact.</p>
-      <p>At the intersection of <b>data engineering</b> and <b>applied AI</b>, I've developed solutions ranging from healthcare analytics to financial fraud detection systems. My passion lies in creating scalable architectures that make complex ML models accessible and valuable in real-world applications.</p>
-      <p>Currently diving deeper into the world of <b>LLMs</b>, <b>vector databases</b> and <b>knowledge graphs</b> to build next-generation AI systems that understand context and deliver actionable intelligence.</p>
+   <p>Hey there! I'm a data scientist and AI engineer who builds intelligent systems using cutting-edge technologies like <b>LangChain</b>, <b>LLMs</b>, and <b>AI agents</b>. With a background bridging electronics engineering and data science, I specialize in creating production-ready AI applications that deliver real-world impact.</p>
+      <p>Recently, I've been diving deep into <b>LangChain agent architectures</b>, <b>ReAct patterns</b>, and <b>tool-calling AI systems</b>. My latest project, <a href="https://pitchpal-ai.streamlit.app/"><b>PitchPal</b></a>, demonstrates advanced AI agent capabilities for startup pitch evaluation.</p>
+      <p>At the intersection of <b>data engineering</b> and <b>applied AI</b>, I've developed solutions ranging from healthcare analytics to AI-powered evaluation systems. My passion lies in creating scalable architectures that make complex ML models accessible and valuable in real-world applications.</p>
+    </p>
     </td>
     <td width="30%">
       <div align="center">
@@ -83,6 +84,12 @@
       <p>Career path prediction and skill gap analysis using Stack Overflow data</p>
       <p><b>Stack:</b> FastAPI, PostgreSQL, LightGBM, Plotly</p>
     </td>
+    <td width="50%">
+      <h3>🎯 PitchPal: AI Startup Evaluator</h3>
+      <p>Advanced LangChain agents with ReAct pattern for intelligent startup pitch analysis</p>
+      <p><b>Stack:</b> LangChain, OpenAI GPT-4, Streamlit, FastAPI</p>
+  <a href="https://pitchpal-ai.streamlit.app/">🌐 Live Demo</a>
+</td>
   </tr>
 </table>
 
