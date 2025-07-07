@@ -1,6 +1,6 @@
 # <div align="center">⚡ JEET PATEL ⚡</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+ML+Engineer;Building+the+Future+with+AI;Turning+Data+into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Engineer;Building+LLM+Applications+with+LangChain;Turning+Data+into+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -13,20 +13,23 @@
   <a href="https://github.com/Jeet-51">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://pitchpal-ai-agent-for-startup-pitch-evaluation.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  </a>
 </p>
 
 ## 🧠 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=38BDAE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Science+M.S.+Student+at+Indiana+University;Building+AI+Systems+That+Solve+Real+Problems;Where+Data+Engineering+Meets+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=38BDAE&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Data+Science+M.S.+Student+at+Indiana+University;Specializing+in+LLM+Applications+%26+AI+Agents;Where+Advanced+AI+Meets+Production+Systems" alt="Typing SVG" />
 </div>
 
 <table>
   <tr>
     <td width="70%">
-      <p>Hey there! I'm a data scientist and ML engineer who transforms raw data into intelligent systems. With a background bridging electronics engineering and data science, I specialize in building production-ready ML pipelines that deliver measurable impact.</p>
-      <p>At the intersection of <b>data engineering</b> and <b>applied AI</b>, I've developed solutions ranging from healthcare analytics to financial fraud detection systems. My passion lies in creating scalable architectures that make complex ML models accessible and valuable in real-world applications.</p>
-      <p>Currently diving deeper into the world of <b>LLMs</b>, <b>vector databases</b> and <b>knowledge graphs</b> to build next-generation AI systems that understand context and deliver actionable intelligence.</p>
+      <p>Hey there! I'm a data scientist and AI engineer who builds intelligent systems using cutting-edge technologies like <b>LangChain</b>, <b>LLMs</b>, and <b>AI agents</b>. With a background bridging electronics engineering and data science, I specialize in creating production-ready AI applications that deliver real-world impact.</p>
+      <p>Recently, I've been diving deep into <b>LangChain agent architectures</b>, <b>ReAct patterns</b>, and <b>tool-calling AI systems</b>. My latest project, <a href="https://pitchpal-ai-agent-for-startup-pitch-evaluation.streamlit.app/"><b>PitchPal</b></a>, demonstrates advanced AI agent capabilities for startup pitch evaluation.</p>
+      <p>At the intersection of <b>data engineering</b> and <b>applied AI</b>, I've developed solutions ranging from healthcare analytics to AI-powered evaluation systems. My passion lies in creating scalable architectures that make complex ML models accessible and valuable in real-world applications.</p>
     </td>
     <td width="30%">
       <div align="center">
@@ -42,9 +45,72 @@
 
 ### 🔍 What Drives Me
 
-> "I believe the most powerful ML systems are those that seamlessly integrate with existing workflows and deliver clear, explainable insights. My goal is to build AI that empowers people rather than mystifies them."
+> "I believe the most powerful AI systems combine sophisticated reasoning with practical utility. My goal is to build LLM applications that seamlessly integrate advanced AI capabilities with real-world workflows, making complex intelligence accessible and actionable."
 
-## 🚀 Experience
+## 🚀 Featured Project
+
+<div align="center">
+  <h3>🎯 PitchPal - AI Startup Pitch Evaluator</h3>
+  <p><b>Advanced LangChain Agents • OpenAI GPT-4 • Production Deployment</b></p>
+  
+  <a href="https://pitchpal-ai-agent-for-startup-pitch-evaluation.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Jeet-51/PitchPal-AI-Agent-for-Startup-Pitch-Evaluation" target="_blank">
+    <img src="https://img.shields.io/badge/📱_View_Code-2196F3?style=for-the-badge&logoColor=white" alt="View Code" />
+  </a>
+</div>
+
+<table>
+  <tr>
+    <td width="70%">
+      <h4>🤖 Advanced AI Agent Implementation</h4>
+      <ul>
+        <li><b>ReAct Agent Pattern:</b> Dynamic reasoning and tool selection</li>
+        <li><b>Custom Tools:</b> Market research, competitor analysis, financial modeling</li>
+        <li><b>Structured Output:</b> Pydantic models with 5-dimension scoring</li>
+        <li><b>Production Ready:</b> Deployed on Streamlit Cloud with 99.9% uptime</li>
+      </ul>
+      
+      <h4>🔧 Technical Architecture</h4>
+      <ul>
+        <li><b>LangChain Framework:</b> Agents, chains, tools, and memory systems</li>
+        <li><b>OpenAI Integration:</b> GPT-4 with function calling and structured responses</li>
+        <li><b>Interactive Frontend:</b> Streamlit with real-time visualization</li>
+        <li><b>Analytics Dashboard:</b> Performance tracking and trend analysis</li>
+      </ul>
+    </td>
+    <td width="30%">
+      <div align="center">
+        <b>🎯 Key Features</b><br><br>
+        📊 <b>5-Dimension Analysis</b><br>
+        Problem • Market • Model<br>
+        Competition • Team<br><br>
+        
+        🧠 <b>AI Methods</b><br>
+        ReAct Agents<br>
+        Sequential Chains<br><br>
+        
+        📈 <b>Live Analytics</b><br>
+        Real-time Dashboard<br>
+        Performance Metrics<br><br>
+        
+        ⚡ <b>Tech Stack</b><br>
+        LangChain • OpenAI<br>
+        Streamlit • FastAPI
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-Agents-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-GPT4-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deployment-Live-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Production-blue?style=flat-square" />
+</div>
+
+## 🚀 Professional Experience
 
 ### Data Scientist @ Project 990 - IU Smart Charity
 - Deployed **RoBERTa** for gender classification across 350K+ non-profit records
@@ -57,29 +123,30 @@
 - Developed **BERT-based music categorization model** with 80% accuracy
 - Engineered **DynamoDB system** for 500K+ creator-brand records
 
-## 💡 Projects
+## 💡 Project Portfolio
 
 <table>
   <tr>
     <td width="50%">
-      <h3>ClaimGuard: Healthcare Service Pattern Analysis</h3>
-      <p>ML pipeline predicting Medicare billing using structured claim features and Bio_ClinicalBERT embeddings</p>
-      <p><b>Stack:</b> Delta Lake, MLflow, SHAP, XGBoost, PySpark, Hugging Face</p>
+      <h3>🎯 PitchPal: AI Startup Evaluator</h3>
+      <p>Advanced LangChain agents with ReAct pattern for intelligent startup pitch analysis</p>
+      <p><b>Stack:</b> LangChain, OpenAI GPT-4, Streamlit, FastAPI</p>
+      <a href="https://pitchpal-ai-agent-for-startup-pitch-evaluation.streamlit.app/">🌐 Live Demo</a>
     </td>
     <td width="50%">
-      <h3>FinanceFlow: Cloud Analytics for Fraud Detection</h3>
-      <p>Real-time ETL pipeline for financial fraud detection using cloud services</p>
-      <p><b>Stack:</b> AWS, PySpark, SageMaker, Redshift, QuickSight</p>
+      <h3>🛡️ ClaimGuard: Healthcare Analytics</h3>
+      <p>ML pipeline predicting Medicare billing using Bio_ClinicalBERT embeddings</p>
+      <p><b>Stack:</b> Delta Lake, MLflow, SHAP, XGBoost, PySpark</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>HRA Portal Usage Analytics</h3>
-      <p>Large-scale user behavior analysis on 192K+ interaction records</p>
-      <p><b>Stack:</b> Apache Spark, Power BI, scikit-learn</p>
+      <h3>💰 FinanceFlow: Fraud Detection</h3>
+      <p>Real-time ETL pipeline for financial fraud detection using cloud services</p>
+      <p><b>Stack:</b> AWS, PySpark, SageMaker, Redshift, QuickSight</p>
     </td>
     <td width="50%">
-      <h3>DevPath Insight: ML-Driven Career Analytics</h3>
+      <h3>📊 DevPath Insight: Career Analytics</h3>
       <p>Career path prediction and skill gap analysis using Stack Overflow data</p>
       <p><b>Stack:</b> FastAPI, PostgreSQL, LightGBM, Plotly</p>
     </td>
@@ -88,23 +155,40 @@
 
 ## 🧰 Tech Arsenal
 
+### 🤖 AI & Machine Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121013?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</div>
+
+### 💾 Data & Analytics
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
+</div>
+
+### ☁️ Cloud & Deployment
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### 📊 Visualization & BI
+<div align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -117,20 +201,59 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-51&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🔥 My Data Science Philosophy
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet-51&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
-> "Data is the new oil, but like oil, it's valuable only when refined into actionable insights. My mission is to build end-to-end systems that transform raw data into intelligence that drives decisions."
+## 🔥 My AI Development Philosophy
+
+> "The future belongs to AI systems that can reason, act, and adapt. I focus on building LangChain applications that combine the power of large language models with structured thinking and tool usage, creating intelligent agents that solve real-world problems."
 
 ## 🌟 Currently Working On
 
-- Building LLM-powered applications with RAG architecture
-- Enhancing data pipeline efficiency with Delta Lake and MLflow
-- Exploring graph-based analytics for complex network analysis
-- Implementing production-grade ML systems with robust monitoring
+- 🤖 **Advanced LangChain Agents:** Building sophisticated ReAct patterns with custom tool integration
+- 🔍 **RAG Applications:** Developing retrieval-augmented generation systems for domain-specific knowledge
+- 🧠 **LLM Fine-tuning:** Optimizing models for specialized business applications
+- 📊 **Production ML Systems:** Implementing robust monitoring and deployment pipelines
+- 🌐 **AI-Powered Web Apps:** Creating user-friendly interfaces for complex AI functionality
 
-## 📫 Let's Connect
+## 🎯 Technical Specializations
 
-I'm always interested in collaborating on innovative projects or discussing the latest in data science and ML! Feel free to reach out at **jeetp5118@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/pateljeet22).
+<table>
+  <tr>
+    <td><b>🤖 LangChain Expertise</b></td>
+    <td><b>🧠 LLM Applications</b></td>
+    <td><b>📊 Data Engineering</b></td>
+  </tr>
+  <tr>
+    <td>• ReAct Agents<br>• Custom Tools<br>• Chain Orchestration<br>• Memory Systems</td>
+    <td>• OpenAI Integration<br>• RAG Architecture<br>• Function Calling<br>• Prompt Engineering</td>
+    <td>• Spark Pipelines<br>• Cloud Architecture<br>• MLOps<br>• Real-time Systems</td>
+  </tr>
+</table>
+
+## 🏆 Recent Achievements
+
+- 🚀 **Deployed PitchPal:** Production AI agent system with 99.9% uptime
+- 🎯 **LangChain Mastery:** Advanced agent patterns and tool integration
+- 📊 **ML Pipeline Excellence:** End-to-end systems processing 500K+ records
+- 🌐 **Cloud Deployment:** Scalable applications on AWS and Streamlit Cloud
+
+## 📫 Let's Connect & Collaborate
+
+I'm always excited to discuss AI innovations, LangChain applications, or potential collaborations! Whether you're interested in my PitchPal project or want to explore cutting-edge AI development together, feel free to reach out.
+
+<div align="center">
+  <a href="mailto:jeetp5118@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/pateljeet22" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://pitchpal-ai-agent-for-startup-pitch-evaluation.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Try_PitchPal-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="PitchPal Demo" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Jeet-51&style=flat-square&color=blue" alt="Profile views" />
@@ -139,5 +262,5 @@ I'm always interested in collaborating on innovative projects or discussing the 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Jeet Patel</sub>
+  <sub>🤖 Building the future with AI • 🚀 Powered by LangChain & OpenAI • ❤️ Made with passion by Jeet Patel</sub>
 </div>
