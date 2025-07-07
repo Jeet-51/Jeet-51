@@ -63,33 +63,28 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>ClaimGuard: Healthcare Service Pattern Analysis</h3>
-      <p>ML pipeline predicting Medicare billing using structured claim features and Bio_ClinicalBERT embeddings</p>
-      <p><b>Stack:</b> Delta Lake, MLflow, SHAP, XGBoost, PySpark, Hugging Face</p>
+      <h3>🎯 PitchPal: AI Startup Evaluator</h3>
+      <p>LangChain ReAct agents for startup pitch evaluation</p>
+      <p><b>Stack:</b> LangChain, OpenAI GPT-4, Streamlit</p>
+      <p><a href="https://pitchpal-ai.streamlit.app/">🌐 Live Demo</a></p>
     </td>
     <td width="50%">
-      <h3>FinanceFlow: Cloud Analytics for Fraud Detection</h3>
-      <p>Real-time ETL pipeline for financial fraud detection using cloud services</p>
-      <p><b>Stack:</b> AWS, PySpark, SageMaker, Redshift, QuickSight</p>
+      <h3>🛡️ ClaimGuard: Healthcare Analytics</h3>
+      <p>ML pipeline predicting Medicare billing using Bio_ClinicalBERT</p>
+      <p><b>Stack:</b> Delta Lake, MLflow, SHAP, XGBoost</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>HRA Portal Usage Analytics</h3>
-      <p>Large-scale user behavior analysis on 192K+ interaction records</p>
+      <h3>💰 FinanceFlow: Fraud Detection</h3>
+      <p>Real-time ETL pipeline for financial fraud detection</p>
+      <p><b>Stack:</b> AWS, PySpark, SageMaker, Redshift</p>
+    </td>
+    <td width="50%">
+      <h3>📊 HRA Portal Usage Analytics</h3>
+      <p>Large-scale user behavior analysis on 192K+ records</p>
       <p><b>Stack:</b> Apache Spark, Power BI, scikit-learn</p>
     </td>
-    <td width="50%">
-      <h3>DevPath Insight: ML-Driven Career Analytics</h3>
-      <p>Career path prediction and skill gap analysis using Stack Overflow data</p>
-      <p><b>Stack:</b> FastAPI, PostgreSQL, LightGBM, Plotly</p>
-    </td>
-    <td width="50%">
-      <h3>🎯 PitchPal: AI Startup Evaluator</h3>
-      <p>Advanced LangChain agents with ReAct pattern for intelligent startup pitch analysis</p>
-      <p><b>Stack:</b> LangChain, OpenAI GPT-4, Streamlit, FastAPI</p>
-  <a href="https://pitchpal-ai.streamlit.app/">🌐 Live Demo</a>
-</td>
   </tr>
 </table>
 
