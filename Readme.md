@@ -97,7 +97,7 @@
       <h3>📝 AI Humanizer</h3>
       <p>Make AI text sound natural and bypass AI detection with advanced OpenAI models.</p>
       <p><b>Features:</b> Humanize AI-generated text, document processing (.txt, .docx, .pdf), adjustable readability & purpose, real-time transformation, credit tracking, history management, responsive design.</p>
-      <p><a href="#">🚀 Live Demo</a></p>
+      <p><a href="https://jeet-51.github.io/Humanizer-Bot/">🚀 Live Demo</a></p>
     </td>
   </tr>
 </table>
