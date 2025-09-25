@@ -90,7 +90,6 @@
     <td width="50%">
       <h3>🌍 U.S. Greenhouse Gas Emissions Dashboard (2021–2023)</h3>
       <p>An end-to-end analytics project transforming raw EPA FLIGHT emissions data into actionable climate insights.</p>
-      <p><b>Stack:</b> Snowflake, dbt, Tableau, SQL, ETL, Data Modeling</p>
       <p><b>Features:</b> Interactive Tableau dashboards with KPIs, maps, and what-if scenario modeling. CI/CD integration via dbt Cloud, Tableau Online, and Snowpipe monitoring.</p>
       <p><b>Goal:</b> Enable tracking of national, sector, state, and facility-level emissions to support sustainability and policy efforts.</p>
     </td>
@@ -98,7 +97,6 @@
       <h3>📝 AI Humanizer</h3>
       <p>Make AI text sound natural and bypass AI detection with advanced OpenAI models.</p>
       <p><b>Features:</b> Humanize AI-generated text, document processing (.txt, .docx, .pdf), adjustable readability & purpose, real-time transformation, credit tracking, history management, responsive design.</p>
-      <p><b>Stack:</b> OpenAI API, Supabase Auth, Credit System, Responsive Web App</p>
       <p><a href="#">🚀 Live Demo</a></p>
     </td>
   </tr>
