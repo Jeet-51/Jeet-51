@@ -1,6 +1,7 @@
-# <div align="center">⚡ JEET PATEL ⚡</div>
+# <div align="center">JEET PATEL</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&lines=Data+Scientist+%26+ML+Engineer;Building+the+Future+with+AI;Turning+Data+into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+AI%2FML+Engineer;Building+Production+AI+Systems;From+Notebooks+to+Production" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,154 +11,234 @@
   <a href="mailto:jeetp5118@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://medium.com/@jeetp5118">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
   <a href="https://github.com/Jeet-51">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-## 🧠 About Me
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=38BDAE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Science+M.S.+Student+at+Indiana+University;Building+AI+Systems+That+Solve+Real+Problems;Where+Data+Engineering+Meets+Machine+Learning" alt="Typing SVG" />
-</div>
+## About Me
 
-<table>
-  <tr>
-    <td width="70%">
-   <p>Hey there! I'm a data scientist and AI engineer who builds intelligent systems using cutting-edge technologies like <b>LangChain</b>, <b>LLMs</b>, and <b>AI agents</b>. With a background bridging electronics engineering and data science, I specialize in creating production-ready AI applications that deliver real-world impact.</p>
-      <p>Recently, I've been diving deep into <b>LangChain agent architectures</b>, <b>ReAct patterns</b>, and <b>tool-calling AI systems</b>. My latest project, <a href="https://pitchpal-ai.streamlit.app/"><b>PitchPal</b></a>, demonstrates advanced AI agent capabilities for startup pitch evaluation.</p>
-      <p>At the intersection of <b>data engineering</b> and <b>applied AI</b>, I've developed solutions ranging from healthcare analytics to AI-powered evaluation systems. My passion lies in creating scalable architectures that make complex ML models accessible and valuable in real-world applications.</p>
-    </p>
-    </td>
-    <td width="30%">
-      <div align="center">
-        <b>📚 Education</b><br>
-        🎓 M.S. Data Science<br>Indiana University<br>GPA: 3.8/4.0<br><br>
-        🎓 B.Tech Electronics & Telecomm<br>DJ Sanghvi College<br>GPA: 3.7/4.0<br><br>
-        <b>🌎 Location</b><br>
-        Bloomington, IN
-      </div>
-    </td>
-  </tr>
-</table>
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Jeet Patel"
+        self.role = "Software Engineer | AI/ML Engineer"
+        self.education = "M.S. Data Science @ Indiana University (GPA: 3.8)"
+        self.location = "Bloomington, IN"
+        
+    def current_focus(self):
+        return [
+            "Building production ML systems that scale",
+            "Backend services with AI/ML integration",
+            "Distributed systems and inference optimization",
+            "MLOps and reliable model deployment"
+        ]
+    
+    def technologies(self):
+        return {
+            "languages": ["Python", "Go", "Java", "SQL"],
+            "backend": ["FastAPI", "Django", "REST APIs", "gRPC"],
+            "ml_stack": ["PyTorch", "TensorFlow", "LangChain", "HuggingFace"],
+            "databases": ["PostgreSQL", "Redis", "MongoDB", "Neo4j"],
+            "cloud": ["AWS", "GCP", "Docker", "Kubernetes"],
+            "mlops": ["MLflow", "Airflow", "CI/CD", "Monitoring"]
+        }
+```
 
-### 🔍 What Drives Me
+---
 
-> "I believe the most powerful ML systems are those that seamlessly integrate with existing workflows and deliver clear, explainable insights. My goal is to build AI that empowers people rather than mystifies them."
+## Experience
 
-## 🚀 Experience
+### AI Software Engineer @ Project 990 - IU O'Neill School
+`Building production AI systems for nonprofit analytics`
 
-### Data Scientist @ Project 990 - IU Smart Charity
-- Deployed **RoBERTa** for gender classification across 350K+ non-profit records
-- Implemented **Mistral-7B LLM** with chain-of-thought reasoning for mission statement classification
+- Built **LLM-powered chatbot** handling 1,200+ monthly queries with 90%+ accuracy
+- Deployed **Text-to-SQL service** using Llama 3 with LangChain and FAISS
+- Implemented **Mistral-7B pipeline** with chain-of-thought reasoning for mission classification
+- Designed distributed processing system for 175K+ nonprofit records across GPU clusters
 - Built **Neo4j knowledge graph** revealing 78 latent nonprofit funding networks
-- Designed KPI dashboards for 1.5M philanthropic records using **Tableau**
 
-### Data Scientist Intern @ Hyphenova Network
+### AI Engineer Intern @ Hyphenova Network
+`Optimizing AI inference and building scalable ML systems`
+
+- Reduced inference latency by **18%** through batch processing optimizations
 - Built **RAG-powered chatbot** with vector search (FAISS/ChromaDB)
-- Developed **BERT-based music categorization model** with 80% accuracy
-- Engineered **DynamoDB system** for 500K+ creator-brand records
+- Developed **BERT-based classification model** achieving 80% accuracy
+- Engineered **DynamoDB system** handling 500K+ creator-brand records
+- Implemented LoRA-based fine-tuning enabling weekly model updates
 
-## 💡 Projects
+---
+
+## Featured Projects
 
 <table>
   <tr>
+    <td width="50%">
+      <h3>🔄 Subscription Commerce Backend</h3>
+      <p>Production-grade backend demonstrating Stripe-style payment patterns</p>
+      <p><b>Highlights:</b></p>
+      <ul>
+        <li>Idempotency middleware preventing duplicate charges</li>
+        <li>Database transactions with rollback guarantees</li>
+        <li>Rate limiting with Redis</li>
+        <li>20ms P50 latency, 0% error rate</li>
+      </ul>
+      <p><b>Stack:</b> Go, PostgreSQL, Redis, Docker</p>
+      <p><a href="https://github.com/Jeet-51/subscription-commerce-backend">📂 Repository</a> | <a href="https://medium.com/@jeetp5118/i-built-a-subscription-backend-like-stripe-in-6-hours-heres-what-i-learned-bc080d2b39e7">📝 Blog Post</a></p>
+    </td>
     <td width="50%">
       <h3>🎯 PitchPal: AI Startup Evaluator</h3>
-      <p>LangChain ReAct agents for startup pitch evaluation</p>
-      <p><b>Stack:</b> LangChain, OpenAI GPT-4, Streamlit</p>
+      <p>LangChain ReAct agents for intelligent startup pitch evaluation</p>
+      <p><b>Highlights:</b></p>
+      <ul>
+        <li>Multi-agent architecture with tool calling</li>
+        <li>Real-time market analysis</li>
+        <li>Structured evaluation framework</li>
+      </ul>
+      <p><b>Stack:</b> LangChain, OpenAI GPT-4, Streamlit, Python</p>
       <p><a href="https://pitchpal-ai.streamlit.app/">🌐 Live Demo</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3>🛡️ ClaimGuard: Healthcare Analytics</h3>
-      <p>ML pipeline predicting Medicare billing using Bio_ClinicalBERT</p>
-      <p><b>Stack:</b> Delta Lake, MLflow, SHAP, XGBoost</p>
+      <h3>🛡️ ClaimGuard: Healthcare ML Pipeline</h3>
+      <p>End-to-end ML system for Medicare billing prediction</p>
+      <p><b>Highlights:</b></p>
+      <ul>
+        <li>Bio_ClinicalBERT for medical text processing</li>
+        <li>XGBoost ensemble with SHAP explainability</li>
+        <li>MLflow experiment tracking</li>
+        <li>Delta Lake data versioning</li>
+      </ul>
+      <p><b>Stack:</b> PyTorch, XGBoost, MLflow, Delta Lake, SHAP</p>
+    </td>
+    <td width="50%">
+      <h3>💰 FinanceFlow: Real-time Fraud Detection</h3>
+      <p>Scalable ETL pipeline for financial fraud detection</p>
+      <p><b>Highlights:</b></p>
+      <ul>
+        <li>Real-time streaming with PySpark</li>
+        <li>SageMaker model deployment</li>
+        <li>Redshift data warehouse</li>
+        <li>Automated alerting system</li>
+      </ul>
+      <p><b>Stack:</b> AWS, PySpark, SageMaker, Redshift, Lambda</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>💰 FinanceFlow: Fraud Detection</h3>
-      <p>Real-time ETL pipeline for financial fraud detection</p>
-      <p><b>Stack:</b> AWS, PySpark, SageMaker, Redshift</p>
+      <h3>🌍 EPA Emissions Analytics Platform</h3>
+      <p>End-to-end data pipeline for climate insights</p>
+      <p><b>Highlights:</b></p>
+      <ul>
+        <li>Snowflake data warehouse with Snowpipe</li>
+        <li>dbt transformations with CI/CD</li>
+        <li>Interactive Tableau dashboards</li>
+        <li>What-if scenario modeling</li>
+      </ul>
+      <p><b>Stack:</b> Snowflake, dbt, Tableau, Python</p>
     </td>
     <td width="50%">
-      <h3>📊 HRA Portal Usage Analytics</h3>
-      <p>Large-scale user behavior analysis on 192K+ records</p>
-      <p><b>Stack:</b> Apache Spark, Power BI, scikit-learn</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌍 U.S. Greenhouse Gas Emissions Dashboard (2021–2023)</h3>
-      <p>An end-to-end analytics project transforming raw EPA FLIGHT emissions data into actionable climate insights.</p>
-      <p><b>Features:</b> Interactive Tableau dashboards with KPIs, maps, and what-if scenario modeling. CI/CD integration via dbt Cloud, Tableau Online, and Snowpipe monitoring.</p>
-      <p><b>Goal:</b> Enable tracking of national, sector, state, and facility-level emissions to support sustainability and policy efforts.</p>
-    </td>
-    <td width="50%">
-      <h3>📝 AI Humanizer</h3>
-      <p>Make AI text sound natural and bypass AI detection with advanced OpenAI models.</p>
-      <p><b>Features:</b> Humanize AI-generated text, document processing (.txt, .docx, .pdf), adjustable readability & purpose, real-time transformation, credit tracking, history management, responsive design.</p>
+      <h3>📝 AI Text Humanizer</h3>
+      <p>Production web app for AI text transformation</p>
+      <p><b>Highlights:</b></p>
+      <ul>
+        <li>OpenAI API integration</li>
+        <li>Multi-format document processing</li>
+        <li>Adjustable output parameters</li>
+        <li>Credit and history management</li>
+      </ul>
+      <p><b>Stack:</b> Python, OpenAI, FastAPI, JavaScript</p>
       <p><a href="https://jeet-51.github.io/Humanizer-Bot/">🚀 Live Demo</a></p>
     </td>
   </tr>
 </table>
 
-## 🧰 Tech Arsenal
+---
+
+## Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+</p>
+
+### AI/ML Stack
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+### Infrastructure & Cloud
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+### MLOps & Data
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeet-51&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
 </div>
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeet-51&show_icons=true&theme=tokyonight" alt="Jeet's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-51&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-51&theme=tokyonight" alt="GitHub Streak" />
-</div>
+---
 
-## 🔥 My Data Science Philosophy
+## Latest Blog Post
 
-> "Data is the new oil, but like oil, it's valuable only when refined into actionable insights. My mission is to build end-to-end systems that transform raw data into intelligence that drives decisions."
+📝 [I Built a Subscription Backend Like Stripe in 6 Hours: Here's What I Learned](https://medium.com/@jeetp5118/i-built-a-subscription-backend-like-stripe-in-6-hours-heres-what-i-learned-bc080d2b39e7)
 
-## 🌟 Currently Working On
+---
 
-- Building LLM-powered applications with RAG architecture
-- Enhancing data pipeline efficiency with Delta Lake and MLflow
-- Exploring graph-based analytics for complex network analysis
-- Implementing production-grade ML systems with robust monitoring
-- Scaling analytics dashboards for sustainability and climate insights
+## Let's Connect
 
-## 📫 Let's Connect
+Building something interesting? I'm always open to discussing software engineering, ML systems, or potential opportunities.
 
-I'm always interested in collaborating on innovative projects or discussing the latest in data science and ML! Feel free to reach out at **jeetp5118@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/pateljeet22).
+<p align="center">
+  <a href="mailto:jeetp5118@gmail.com"><b>jeetp5118@gmail.com</b></a> · 
+  <a href="https://www.linkedin.com/in/pateljeet22"><b>LinkedIn</b></a> · 
+  <a href="https://medium.com/@jeetp5118"><b>Medium</b></a>
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jeet-51&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jeet-51&style=flat-square&color=00d9ff" alt="Profile views" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Jeet Patel | Showcasing AI & Analytics that make impact 🌎</sub>
+  <sub>Software Engineer building AI systems that work in production, not just in notebooks.</sub>
 </div>
-
