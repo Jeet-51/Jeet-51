@@ -75,9 +75,21 @@ class SoftwareEngineer:
 ---
 
 ## Featured Projects
-
 <table>
   <tr>
+    <td width="50%">
+      <h3>⚡ LLM Inference Service</h3>
+      <p>Production-grade API achieving 1,600x latency reduction through intelligent caching</p>
+      <p><b>Highlights:</b></p>
+      <ul>
+        <li>vLLM + AWQ quantization (28GB → 14GB VRAM)</li>
+        <li>Redis caching: 8.3s → 5ms response time</li>
+        <li>Sliding-window rate limiting per API key</li>
+        <li>Prometheus + Grafana observability</li>
+      </ul>
+      <p><b>Stack:</b> vLLM, FastAPI, Redis, Prometheus, Docker</p>
+      <p><a href="https://github.com/Jeet-51/llm-inference-service">📂 Repository</a></p>
+    </td>
     <td width="50%">
       <h3>🔄 Subscription Commerce Backend</h3>
       <p>Production-grade backend demonstrating Stripe-style payment patterns</p>
@@ -91,6 +103,8 @@ class SoftwareEngineer:
       <p><b>Stack:</b> Go, PostgreSQL, Redis, Docker</p>
       <p><a href="https://github.com/Jeet-51/subscription-commerce-backend">📂 Repository</a> | <a href="https://medium.com/@jeetp5118/i-built-a-subscription-backend-like-stripe-in-6-hours-heres-what-i-learned-bc080d2b39e7">📝 Blog Post</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🎯 PitchPal: AI Startup Evaluator</h3>
       <p>LangChain ReAct agents for intelligent startup pitch evaluation</p>
@@ -103,8 +117,6 @@ class SoftwareEngineer:
       <p><b>Stack:</b> LangChain, OpenAI GPT-4, Streamlit, Python</p>
       <p><a href="https://pitchpal-ai.streamlit.app/">🌐 Live Demo</a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🛡️ ClaimGuard: Healthcare ML Pipeline</h3>
       <p>End-to-end ML system for Medicare billing prediction</p>
@@ -117,6 +129,8 @@ class SoftwareEngineer:
       </ul>
       <p><b>Stack:</b> PyTorch, XGBoost, MLflow, Delta Lake, SHAP</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>💰 FinanceFlow: Real-time Fraud Detection</h3>
       <p>Scalable ETL pipeline for financial fraud detection</p>
@@ -129,8 +143,6 @@ class SoftwareEngineer:
       </ul>
       <p><b>Stack:</b> AWS, PySpark, SageMaker, Redshift, Lambda</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3>🌍 EPA Emissions Analytics Platform</h3>
       <p>End-to-end data pipeline for climate insights</p>
@@ -142,19 +154,6 @@ class SoftwareEngineer:
         <li>What-if scenario modeling</li>
       </ul>
       <p><b>Stack:</b> Snowflake, dbt, Tableau, Python</p>
-    </td>
-    <td width="50%">
-      <h3>📝 AI Text Humanizer</h3>
-      <p>Production web app for AI text transformation</p>
-      <p><b>Highlights:</b></p>
-      <ul>
-        <li>OpenAI API integration</li>
-        <li>Multi-format document processing</li>
-        <li>Adjustable output parameters</li>
-        <li>Credit and history management</li>
-      </ul>
-      <p><b>Stack:</b> Python, OpenAI, FastAPI, JavaScript</p>
-      <p><a href="https://jeet-51.github.io/Humanizer-Bot/">🚀 Live Demo</a></p>
     </td>
   </tr>
 </table>
