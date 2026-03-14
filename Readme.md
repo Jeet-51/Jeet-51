@@ -202,17 +202,6 @@ class SoftwareEngineer:
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
 </p>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeet-51&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeet-51&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
 
 ---
 
