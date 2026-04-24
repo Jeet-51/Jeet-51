@@ -54,7 +54,7 @@ class Jeet:
 
 | 🚀 | Metric |
 |:---:|:---|
-| **175K+** | Nonprofit records served in production |
+| **14M+** | Nonprofit records served in production |
 | **1,600×** | Latency reduction via Redis caching (8.3s → 5ms) |
 | **180ms** | P50 inference latency on GPU-backed LLM service |
 | **500K+** | Creator–brand interactions on AI-powered platform |
